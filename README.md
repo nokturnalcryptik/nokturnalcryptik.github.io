@@ -2,7 +2,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Prova – #1 Group Management Hub for Roblox Groups | Free</title>
+<title>Averis – #1 Group Management Hub for Roblox Groups | Free</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700;800;900&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
@@ -584,7 +584,7 @@
 <nav>
   <a href="#" class="nav-logo">
     <div class="logo-icon">P</div>
-    Prova
+    Averis
   </a>
   <ul class="nav-links">
     <li><a href="#">Home</a></li>
@@ -618,7 +618,7 @@
 </section>
 
 <div class="stats-bar">
-  <div class="stat"><div class="stat-num">12,000+</div><div class="stat-label">Groups using Prova</div></div>
+  <div class="stat"><div class="stat-num">12,000+</div><div class="stat-label">Groups using Averis</div></div>
   <div class="stat"><div class="stat-num">850K+</div><div class="stat-label">Cases logged</div></div>
   <div class="stat"><div class="stat-num">99.9%</div><div class="stat-label">Uptime SLA</div></div>
   <div class="stat"><div class="stat-num">Free</div><div class="stat-label">Forever base plan</div></div>
@@ -636,7 +636,7 @@
       <div class="mock-sidebar">
         <div style="font-size:0.9rem;font-weight:700;margin-bottom:1.5rem;display:flex;align-items:center;gap:0.5rem;">
           <div class="logo-icon" style="width:22px;height:22px;font-size:11px;">P</div>
-          Prova
+          Aervis
         </div>
         <div class="mock-sidebar-title">General</div>
         <div class="mock-nav-item active">⊞ &nbsp;Dashboard</div>
@@ -765,12 +765,12 @@
   <div class="text-center">
     <div class="section-tag" style="display:inline-block;">Testimonials</div>
     <h2 class="section-title">Loved by group owners</h2>
-    <p class="section-sub" style="margin:0 auto;">Thousands of Roblox groups trust Prova to keep their communities safe.</p>
+    <p class="section-sub" style="margin:0 auto;">Thousands of Roblox groups trust Averis to keep their communities safe.</p>
   </div>
   <div class="testimonials-grid">
     <div class="testimonial-card">
       <div class="stars">★★★★★</div>
-      <p class="testimonial-text">"Prova completely changed how we handle moderation. We went from a chaotic Discord spreadsheet to a fully organized system overnight. Absolutely essential for any serious group."</p>
+      <p class="testimonial-text">"Averis completely changed how we handle moderation. We went from a chaotic Discord spreadsheet to a fully organized system overnight. Absolutely essential for any serious group."</p>
       <div class="testimonial-author">
         <div class="author-avatar" style="background:linear-gradient(135deg,#6c63ff,#a78bfa);">JR</div>
         <div><div class="author-name">JakesRblx</div><div class="author-role">Owner · 50K member group</div></div>
@@ -798,7 +798,7 @@
 <section class="cta-section">
   <div class="cta-box">
     <h2>Ready to bring order to your group?</h2>
-    <p>Join thousands of Roblox group owners who trust Prova for their moderation. Free forever — no credit card needed.</p>
+    <p>Join thousands of Roblox group owners who trust Averis for their moderation. Free forever — no credit card needed.</p>
     <div style="display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;">
       <a href="#" class="btn btn-primary btn-lg">Get Started Free</a>
       <a href="#" class="btn btn-ghost btn-lg">View Pricing</a>
@@ -810,14 +810,14 @@
   <div class="footer-inner">
     <div class="footer-top">
       <div class="footer-brand">
-        <a href="#" class="nav-logo"><div class="logo-icon">P</div> Prova</a>
+        <a href="#" class="nav-logo"><div class="logo-icon">P</div> Averis</a>
         <p>The #1 free moderation hub for Roblox groups. Track cases, manage staff, and maintain full accountability.</p>
       </div>
       <div class="footer-col">
         <div class="footer-col-title">Product</div>
         <a href="#">Home</a>
         <a href="#">Pricing</a>
-        <a href="#">About Prova</a>
+        <a href="#">About Averis</a>
         <a href="#">Documentation</a>
         <a href="#">Guides & Tutorials</a>
       </div>
@@ -836,7 +836,7 @@
       </div>
     </div>
     <div class="footer-bottom">
-      <span>© 2025 Prova. All rights reserved.</span>
+      <span>© 2025 Averis. All rights reserved.</span>
       <span>Not affiliated with Roblox Corporation.</span>
     </div>
   </div>
